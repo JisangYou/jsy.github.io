@@ -18,15 +18,15 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "dark" #"default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "mr.JayYou Tech 블로그"
+locale                   : "ko"
+title                    : "Mr.JayYou Tech 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jay"
-description              : "i love opensource :)"
+description              : "I Love Opensource :)"
 url                      : "https://JisangYou.github.io"
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "JisangYou/JisangYou.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -112,13 +112,13 @@ analytics:
 author:
   name             : "JayYou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "halo"
+  bio              : "누워서 코딩하는 걸 좋아하는 안드로이드 개발자입니다. 스트레칭 합시다~"
   location         : "seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: esse.prime.guy@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://jisangYou.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -293,6 +293,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
