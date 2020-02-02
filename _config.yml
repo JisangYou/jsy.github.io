@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "JayYou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "누워서 코딩하는 걸 좋아하는 안드로이드 개발자입니다. 스트레칭 합시다~"
+  bio              : "누워서 코딩하는 걸 좋아하는 안드로이드 개발자입니다."
   location         : "seoul"
   email            :
   links:
@@ -130,7 +130,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://jisangYou.com/"
+      url: "https://github.com/JisangYou"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
