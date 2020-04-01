@@ -87,7 +87,7 @@ xml 파일 내에서, data 태그는 클래스 파일에서 사용하고자 하�
                android:text="@{user.firstName}"/> 
 ```
 
-## data binding 회고
+## 회고
 
 ### 2020/03/29
 - 확실히 databinding을 적용하지 않았을 때의 프로젝트와 비교했을때, findviewbyid를 사용하지 않아서 보일러 코드는 줄어들 것이다라는 생각이 들었다.
